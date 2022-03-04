@@ -6,6 +6,6 @@ if (randomNum === 1) {console.log(`Equal to 1`); } else if(randomNum === 2) {con
 
 if (randomNum !== 3){console.log(`Not equal to 3`)}
 
-if (randomNum !== 3 & randomNum !==5){console.log(`Not equal to 3 or 5`)}
+if (randomNum !== 3 && randomNum !==5){console.log(`Not equal to 3 or 5`)}
 
 if(randomNum === 2 || randomNum === 4){console.log('Equal to 2 or 4')}
